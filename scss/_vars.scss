@@ -1,11 +1,10 @@
-$marrom: #252525;
-$bgsec:#e7e4d8 ;
-$corp: #492901;
-$corc:#c17139;
-$corm:#d7a54d;
+$darkbrown: #252525;
+$bgsec: #e7e4d8;
+$brown: #492901;
+$orange: #c17139;
+$yellow: #d7a54d;
 $bgfoot: #d6d3c8;
 
-@mixin borda{
-    border: 1px solid #000;
+@mixin borda {
+  border: 1px solid #000;
 }
-
