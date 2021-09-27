@@ -1,0 +1,39 @@
+.top {
+  background: #252525;
+  padding: 20px 0;
+}
+
+.top-content {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.top-content::after,
+.top-content::before {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a.top-content {
+  display: block;
+  float: left;
+  margin-left: 10px;
+}
+
+.main-menu {
+  float: right;
+  margin-right: 10px;
+}
+
+.main-menu li {
+  display: inline-block;
+}
+
+.main-menu a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.125em;
+}

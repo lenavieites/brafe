@@ -1,0 +1,20 @@
+{
+  "name": "brafe-helenavieites",
+  "version": "1.0.0",
+  "description": "Helena Vieites Brafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brafe"
+  ],
+  "author": "Helena Vieites",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.42.1"
+  }
+}
