@@ -26,3 +26,9 @@
   font-style: italic;
   font-size: 1.125em;
 }
+
+@media (max-width: 739px) {
+  .intro {
+    padding: 80px 0;
+  }
+}
