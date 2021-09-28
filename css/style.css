@@ -322,24 +322,3 @@ h2.mineiro::before {
   margin: 0 10px;
   display: block;
 }
-
-@media only screen and (max-width: 739px) {
-  .main-menu {
-    float: none;
-    clear: both;
-  }
-
-  .intro {
-    padding: 60px 0;
-  }
-}
-@media only screen and (min-width: 740px) and (max-width: 980px) {
-  .sobre .sobre-content {
-    width: 100%;
-    max-width: 780px;
-  }
-
-  .sobre-item {
-    width: 350px;
-  }
-}
